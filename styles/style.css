@@ -35,3 +35,15 @@ p, li {
 a {
   color: rgb(87, 67, 255);
 }
+
+button {
+  display: block;
+  margin: 0 auto;
+  background-color: rgb(87, 67, 255);
+  padding: 15px;
+  border-radius: 15px;
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
